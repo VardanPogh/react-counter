@@ -12,8 +12,8 @@ A simple and interactive counter application built with React. This app allows u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/VardanPogh/counter-app.git
-   cd counter-app
+   git clone https://github.com/VardanPogh/react-counter.git
+   cd react-counter
    ```
 2. **Install dependencies:**:
    ```bash
